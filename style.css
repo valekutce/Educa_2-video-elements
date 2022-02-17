@@ -12,7 +12,9 @@
   -webkit-transition: all .2s linear;
   transition: all .2s linear;
 }
-
+body{
+background-color: #ffffff:
+}
 html {
   font-size: 62.5%;
   overflow-x: hidden;
